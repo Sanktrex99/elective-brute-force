@@ -4,8 +4,6 @@ Bruteforce attack on hibiscus elective website to get passcode. Due to some inco
 Usage of 'brute.py' for attacking targets without prior mutual consent is illegal
 Developer assume no liability and are not responsible for any misuse or damage caused by this program
 # Dependencies
-'''
 1. requires 'Python3'
 2. install 'requests' library just by following these commands.
- 
-'''
+Open cmd / terminal and type `pip install requests`
