@@ -3,7 +3,7 @@
 #  Developer assume no liability and are not responsible for any misuse or damage caused by this program.  #
 #----------------------------------------------------------------------------------------------------------#
 
-# Enter your IIIT email adress
+# Enter your IIIT email address
 email=''
 
 # email='b718033@iiit-bh.ac.in'            #Debugging Purpose
